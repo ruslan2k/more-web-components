@@ -1,2 +1,2 @@
-# web-components-typescript
+# web-components
 Web Components Package with Typescript
