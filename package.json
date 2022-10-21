@@ -1,0 +1,25 @@
+{
+  "name": "web-components-typescript",
+  "version": "1.0.0",
+  "description": "Web Components Package with Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    "prebuild": "rm -rf lib/*",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruslan2k/web-components-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ruslan2k/web-components-typescript/issues"
+  },
+  "homepage": "https://github.com/ruslan2k/web-components-typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
