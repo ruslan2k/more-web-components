@@ -22,6 +22,10 @@
   },
   "homepage": "https://github.com/ruslan2k/more-web-components#readme",
   "devDependencies": {
+    "@types/react": "18.0.21",
     "typescript": "4.8.4"
+  },
+  "dependencies": {
+    "react": "18.2.0"
   }
 }
