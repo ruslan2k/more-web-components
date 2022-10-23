@@ -1,7 +1,7 @@
 {
-  "name": "web-components",
+  "name": "more-web-components",
   "version": "1.0.0",
-  "description": "Web Components Package with Typescript",
+  "description": "More Web Components",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ruslan2k/web-components.git"
+    "url": "git+https://github.com/ruslan2k/more-web-components.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ruslan2k/web-components/issues"
+    "url": "https://github.com/ruslan2k/more-web-components/issues"
   },
-  "homepage": "https://github.com/ruslan2k/web-components#readme",
+  "homepage": "https://github.com/ruslan2k/more-web-components#readme",
   "devDependencies": {
     "typescript": "4.8.4"
   }
